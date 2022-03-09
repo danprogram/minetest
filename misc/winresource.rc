@@ -1,5 +1,4 @@
-#include <windows.h>
-#include <winuser.h>
+#include <windows.h> //#include <winuser.h> included in windows.h as child header
 #include <commctrl.h>
 #include <richedit.h>
 
